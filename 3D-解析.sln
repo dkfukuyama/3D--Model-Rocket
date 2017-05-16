@@ -1,9 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
-VisualStudioVersion = 14.0.23107.0
+VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quaternionテスト01", "Quaternionテスト01\Quaternionテスト01.csproj", "{493E5E07-A43D-429A-B5F2-4A8EB630EAE4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "quaternionview", "csharp\quaternionview.csproj", "{3395CBBA-301C-4607-9F2B-C93136233144}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FSRPログ解析", "FSRPログ解析\FSRPログ解析.csproj", "{E1E47761-E16F-4984-AF27-EC83D0CB11A3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{493E5E07-A43D-429A-B5F2-4A8EB630EAE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{493E5E07-A43D-429A-B5F2-4A8EB630EAE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{493E5E07-A43D-429A-B5F2-4A8EB630EAE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3395CBBA-301C-4607-9F2B-C93136233144}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3395CBBA-301C-4607-9F2B-C93136233144}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3395CBBA-301C-4607-9F2B-C93136233144}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3395CBBA-301C-4607-9F2B-C93136233144}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E1E47761-E16F-4984-AF27-EC83D0CB11A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E1E47761-E16F-4984-AF27-EC83D0CB11A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E1E47761-E16F-4984-AF27-EC83D0CB11A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E1E47761-E16F-4984-AF27-EC83D0CB11A3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
